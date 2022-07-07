@@ -1,3 +1,3 @@
 # NeuralNetwork
 
-Creating neural network from scratch using numpy
+Creating neural network from scratch using numpy 
